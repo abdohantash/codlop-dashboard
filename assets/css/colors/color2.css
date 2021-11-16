@@ -336,8 +336,8 @@ table.dataTable.dtr-inline.collapsed > tbody > tr[role="row"] > td:first-child:b
 }
 
 .signpages .details:before, .construction:before {
-  background: #824bab;
-  opacity: 0.95;
+  background: #25233c;
+  opacity: .77;
 }
 
 .color-horizontal .main-navbar.hor-menu {
